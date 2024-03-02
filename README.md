@@ -1,2 +1,2 @@
 # RE
-this is a clone of a royal enfield website
+This is a Front-end clone website of the official Royal Enfield Website.(https://www.royalenfield.com/in/en/home/)
